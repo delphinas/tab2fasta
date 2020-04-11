@@ -24,7 +24,7 @@ ATGTTGTAGTAATGGTTGTAGGTTGTAGGTTGTTGTAGTAGGTTGTAGGTTGTAGGTTGTAGGTTGTAGGTTGTAGGTTG
 
 
 
-## **How to used it:**
+## **How to use it:**
 
 Before you start, defined the following:
 
