@@ -26,7 +26,7 @@ ATGTTGTAGTAATGGTTGTAGGTTGTAGGTTGTTGTAGTAGGTTGTAGGTTGTAGGTTGTAGGTTGTAGGTTGTAGGTTG
 
 ## **How to use it:**
 
-Before you start, defined the following:
+Before you start, define the following:
 
 * **my_file** = 'example.xlsx'
 * **name_co**l = 'Name of the peptide/nucleotide **name** column'
