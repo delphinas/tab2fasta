@@ -26,7 +26,7 @@ ATGTTGTAGTAATGGTTGTAGGTTGTAGGTTGTTGTAGTAGGTTGTAGGTTGTAGGTTGTAGGTTGTAGGTTGTAGGTTG
 
 ## **How to use it:**
 
-Before you start, define the following:
+Before you start, open the [tab2fasta.ipynb](tab2fasta.ipynb) and define the following:
 
 * **my_file** = 'example.xlsx'
 * **name_co**l = 'Name of the peptide/nucleotide **name** column'
